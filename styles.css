@@ -59,7 +59,7 @@ span{
 
 @keyframes animate{
     0%{
-        transform: translateX(-10000%);
+        transform: translateX(-1000%);
     }
     100%{
         transform: translateX(0%);
